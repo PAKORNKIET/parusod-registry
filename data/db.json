@@ -266,13 +266,13 @@
       "id": 5,
       "code": "INV-001",
       "borrowDate": "07/07/2569",
-      "borrower": "นนน",
-      "dept": "กอง",
-      "dueDate": "08/07/2569",
+      "borrower": "นายอุ๋ย",
+      "dept": "กองกลาฃ",
+      "dueDate": "16/07/2569",
       "returnDate": "",
       "receiver": "",
       "status": "borrow"
     }
   ],
-  "updatedAt": "2026-07-07T03:39:00.939Z"
+  "updatedAt": "2026-07-07T03:40:12.040Z"
 }
