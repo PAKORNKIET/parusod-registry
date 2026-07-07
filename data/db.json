@@ -261,7 +261,18 @@
       "returnDate": "18/06/2569",
       "receiver": "สมศรี",
       "status": "returned"
+    },
+    {
+      "id": 5,
+      "code": "INV-001",
+      "borrowDate": "07/07/2569",
+      "borrower": "นนน",
+      "dept": "กอง",
+      "dueDate": "08/07/2569",
+      "returnDate": "",
+      "receiver": "",
+      "status": "borrow"
     }
   ],
-  "updatedAt": "seed"
+  "updatedAt": "2026-07-07T03:39:00.939Z"
 }
