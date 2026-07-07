@@ -272,7 +272,18 @@
       "returnDate": "",
       "receiver": "",
       "status": "borrow"
+    },
+    {
+      "id": 6,
+      "code": "INV-001",
+      "borrowDate": "07/07/2569",
+      "borrower": "นายอุ๋ย",
+      "dept": "กองกลาฃ",
+      "dueDate": "16/07/2569",
+      "returnDate": "",
+      "receiver": "",
+      "status": "borrow"
     }
   ],
-  "updatedAt": "2026-07-07T03:40:12.040Z"
+  "updatedAt": "2026-07-07T03:40:14.032Z"
 }
